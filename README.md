@@ -25,6 +25,7 @@ The purpose of this repo is to:
 CPP-playground/
 ├── Binary Search/
 ├── Pair/
+├── Patterns/
 ├── Queue/
 ├── Stack/
 └── README.md
@@ -42,11 +43,10 @@ CPP-playground/
 
 ## 📖 Topics Covered
 
-| Topic | Files |
-|-------|-------|
-| **Binary Search** | `custom_lower_bound`, `custom_upper_bound`, `peak_element_in_bitonic_array` |
-| **Pair** | `Pair` |
-| **Queue** | `QueueUsingArray`, `QueueUsingLL` |
-| **Stack** | `StackUsingArray`, `StackUsingLL` |
+- **Binary Search**
+- **Pair**
+- **Patterns**
+- **Queue**
+- **Stack**
 
 ---
