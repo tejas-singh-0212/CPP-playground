@@ -28,6 +28,7 @@ CPP-playground/
 ├── Pair/
 ├── Patterns/
 ├── Queue/
+├── Recursion/
 ├── Stack/
 └── README.md
 ```
@@ -49,6 +50,7 @@ CPP-playground/
 - **Pair**
 - **Patterns**
 - **Queue**
+- **Recursion**
 - **Stack**
 
 ---
