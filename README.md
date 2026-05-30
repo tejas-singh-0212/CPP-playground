@@ -25,6 +25,7 @@ The purpose of this repo is to:
 CPP-playground/
 ├── Basic Maths/
 ├── Binary Search/
+├── Hashing/
 ├── Pair/
 ├── Patterns/
 ├── Queue/
@@ -47,6 +48,7 @@ CPP-playground/
 
 - **Basic Maths**
 - **Binary Search**
+- **Hashing**
 - **Pair**
 - **Patterns**
 - **Queue**
