@@ -30,6 +30,7 @@ CPP-playground/
 ├── Patterns/
 ├── Queue/
 ├── Recursion/
+├── Sorting/
 ├── Stack/
 └── README.md
 ```
@@ -53,6 +54,7 @@ CPP-playground/
 - **Patterns**
 - **Queue**
 - **Recursion**
+- **Sorting**
 - **Stack**
 
 ---
