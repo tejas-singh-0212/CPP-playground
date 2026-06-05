@@ -23,6 +23,7 @@ The purpose of this repo is to:
 
 ```
 CPP-playground/
+├── Arrays/
 ├── Basic Maths/
 ├── Binary Search/
 ├── Hashing/
@@ -47,6 +48,7 @@ CPP-playground/
 
 ## 📖 Topics Covered
 
+- **Arrays**
 - **Basic Maths**
 - **Binary Search**
 - **Hashing**
