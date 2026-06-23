@@ -26,6 +26,7 @@ CPP-playground/
 ├── Arrays/
 ├── Basic Maths/
 ├── Binary Search/
+├── Dynamic Programming/
 ├── Hashing/
 ├── Pair/
 ├── Patterns/
@@ -51,6 +52,7 @@ CPP-playground/
 - **Arrays**
 - **Basic Maths**
 - **Binary Search**
+- **Dynamic Programming**
 - **Hashing**
 - **Pair**
 - **Patterns**
