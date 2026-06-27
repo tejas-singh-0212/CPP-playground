@@ -87,4 +87,5 @@ CPP-playground/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
