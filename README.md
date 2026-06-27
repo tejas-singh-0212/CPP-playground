@@ -68,6 +68,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -78,4 +79,8 @@ CPP-playground/
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
