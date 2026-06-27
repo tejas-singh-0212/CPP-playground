@@ -68,8 +68,14 @@ CPP-playground/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
