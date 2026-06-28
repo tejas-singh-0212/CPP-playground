@@ -74,6 +74,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -88,4 +89,8 @@ CPP-playground/
 | ------- |
 | [0007-reverse-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
