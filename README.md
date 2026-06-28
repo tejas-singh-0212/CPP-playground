@@ -70,6 +70,7 @@ CPP-playground/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ CPP-playground/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -92,6 +94,7 @@ CPP-playground/
 | ------- |
 | [0007-reverse-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 ## String
 |  |
