@@ -70,6 +70,7 @@ CPP-playground/
 | [0001-two-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ CPP-playground/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
@@ -121,4 +123,8 @@ CPP-playground/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
