@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& arr) {
+        // Moore's Voting Algorithm
         int count = 0;
         int element = arr[0];
         int n = arr.size();
