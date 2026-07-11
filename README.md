@@ -111,6 +111,7 @@ CPP-playground/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 ## Recursion
@@ -144,4 +145,8 @@ CPP-playground/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
