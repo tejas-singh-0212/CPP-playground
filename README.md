@@ -71,6 +71,7 @@ CPP-playground/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ CPP-playground/
 | ------- |
 | [0007-reverse-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
@@ -156,5 +158,6 @@ CPP-playground/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
