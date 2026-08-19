@@ -89,6 +89,7 @@ CPP-playground/
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ CPP-playground/
 | [0118-pascals-triangle](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ CPP-playground/
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -186,4 +189,16 @@ CPP-playground/
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
