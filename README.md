@@ -135,6 +135,7 @@ CPP-playground/
 | ------- |
 | [0007-reverse-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
@@ -146,6 +147,7 @@ CPP-playground/
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0345-reverse-vowels-of-a-string) |
@@ -169,6 +171,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
