@@ -106,6 +106,7 @@ CPP-playground/
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -140,6 +141,7 @@ CPP-playground/
 | [0020-valid-parentheses](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
