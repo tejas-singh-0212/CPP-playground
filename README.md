@@ -68,6 +68,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -148,6 +149,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0345-reverse-vowels-of-a-string) |
@@ -244,4 +246,8 @@ CPP-playground/
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
