@@ -89,6 +89,7 @@ CPP-playground/
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
@@ -223,4 +224,8 @@ CPP-playground/
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
