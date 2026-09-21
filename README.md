@@ -88,6 +88,7 @@ CPP-playground/
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
@@ -231,5 +232,10 @@ CPP-playground/
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
