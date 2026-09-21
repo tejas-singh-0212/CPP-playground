@@ -134,6 +134,7 @@ CPP-playground/
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -142,6 +143,7 @@ CPP-playground/
 | [0020-valid-parentheses](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
@@ -213,4 +215,12 @@ CPP-playground/
 | ------- |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
