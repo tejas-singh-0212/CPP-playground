@@ -90,6 +90,7 @@ CPP-playground/
 | [0238-product-of-array-except-self](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
@@ -112,6 +113,7 @@ CPP-playground/
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
@@ -179,6 +181,7 @@ CPP-playground/
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -190,6 +193,7 @@ CPP-playground/
 | [0088-merge-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,4 +256,8 @@ CPP-playground/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
