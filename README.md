@@ -74,6 +74,7 @@ CPP-playground/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0054-spiral-matrix) |
@@ -269,6 +270,7 @@ CPP-playground/
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
