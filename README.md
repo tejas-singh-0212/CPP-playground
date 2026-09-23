@@ -91,6 +91,7 @@ CPP-playground/
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@ CPP-playground/
 | [0172-factorial-trailing-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
@@ -190,6 +192,7 @@ CPP-playground/
 | [0136-single-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +201,7 @@ CPP-playground/
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1207-unique-number-of-occurrences) |
@@ -211,6 +215,7 @@ CPP-playground/
 | [0088-merge-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -282,6 +287,7 @@ CPP-playground/
 | ------- |
 | [0035-search-insert-position](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
