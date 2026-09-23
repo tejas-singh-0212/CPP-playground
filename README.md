@@ -150,6 +150,7 @@ CPP-playground/
 | [0013-roman-to-integer](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
@@ -274,6 +275,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -312,4 +314,8 @@ CPP-playground/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
