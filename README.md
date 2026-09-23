@@ -186,6 +186,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +214,7 @@ CPP-playground/
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
