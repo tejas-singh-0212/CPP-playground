@@ -151,6 +151,7 @@ CPP-playground/
 | [0048-rotate-image](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
