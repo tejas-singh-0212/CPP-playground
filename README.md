@@ -156,6 +156,7 @@ CPP-playground/
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
@@ -289,6 +290,7 @@ CPP-playground/
 | [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
