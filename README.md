@@ -153,6 +153,7 @@ CPP-playground/
 | [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
@@ -177,6 +178,7 @@ CPP-playground/
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -187,6 +189,7 @@ CPP-playground/
 | ------- |
 | [0136-single-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
