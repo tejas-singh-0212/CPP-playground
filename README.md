@@ -128,6 +128,7 @@ CPP-playground/
 | [0443-string-compression](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ CPP-playground/
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
+| [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -341,4 +343,8 @@ CPP-playground/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
