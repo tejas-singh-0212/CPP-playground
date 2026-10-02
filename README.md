@@ -179,6 +179,7 @@ CPP-playground/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0392-is-subsequence) |
@@ -211,6 +212,7 @@ CPP-playground/
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0383-ransom-note) |
@@ -226,6 +228,7 @@ CPP-playground/
 | [0088-merge-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
