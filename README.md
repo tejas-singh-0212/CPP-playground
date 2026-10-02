@@ -99,6 +99,7 @@ CPP-playground/
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -297,6 +298,7 @@ CPP-playground/
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
