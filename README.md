@@ -135,6 +135,7 @@ CPP-playground/
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -167,6 +168,7 @@ CPP-playground/
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 | [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
