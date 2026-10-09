@@ -108,6 +108,7 @@ CPP-playground/
 | [1732-find-the-highest-altitude](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@ CPP-playground/
 | [1688-count-of-matches-in-tournament](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 | [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
