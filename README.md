@@ -110,6 +110,7 @@ CPP-playground/
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@ CPP-playground/
 | [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
