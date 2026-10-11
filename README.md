@@ -108,6 +108,7 @@ CPP-playground/
 | [1732-find-the-highest-altitude](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -370,4 +371,8 @@ CPP-playground/
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
