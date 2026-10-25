@@ -135,6 +135,7 @@ CPP-playground/
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
@@ -200,6 +201,7 @@ CPP-playground/
 | [0392-is-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1768-merge-strings-alternately](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1768-merge-strings-alternately) |
@@ -308,6 +310,7 @@ CPP-playground/
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0680-valid-palindrome-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
