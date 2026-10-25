@@ -84,6 +84,7 @@ CPP-playground/
 | [0066-plus-one](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0119-pascals-triangle-ii) |
@@ -321,6 +322,7 @@ CPP-playground/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0367-valid-perfect-square) |
