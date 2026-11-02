@@ -110,6 +110,7 @@ CPP-playground/
 | [0875-koko-eating-bananas](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
@@ -339,6 +340,7 @@ CPP-playground/
 | [0633-sum-of-square-numbers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Indexed Tree
 |  |
 | ------- |
