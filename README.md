@@ -102,6 +102,7 @@ CPP-playground/
 | [0283-move-zeroes](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
@@ -160,6 +161,7 @@ CPP-playground/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
@@ -284,6 +286,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
@@ -314,6 +317,7 @@ CPP-playground/
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0680-valid-palindrome-ii) |
 ## Longest Increasing Subsequence
@@ -337,6 +341,7 @@ CPP-playground/
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0704-binary-search) |
