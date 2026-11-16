@@ -179,6 +179,7 @@ CPP-playground/
 | [0189-rotate-array](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0412-fizz-buzz) |
@@ -294,11 +295,13 @@ CPP-playground/
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/tejas-singh-0212/CPP-playground/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
@@ -392,6 +395,7 @@ CPP-playground/
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/tejas-singh-0212/CPP-playground/tree/master/2396-strictly-palindromic-number) |
 ## Bracket Sequences
 |  |
@@ -409,4 +413,12 @@ CPP-playground/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0128-longest-consecutive-sequence) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tejas-singh-0212/CPP-playground/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
